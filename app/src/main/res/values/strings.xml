@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Registration</string>
+    <string name="register">რეგისტრაცია</string>
+    <string name="surname">გვარი</string>
+    <string name="name">სახელი</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">პაროლი</string>
+    <string name="policy">ვეთანხმები წესებსა და პირობებს</string>
+</resources>
